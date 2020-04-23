@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">movilesPractica1</string>
+    <string name="welcome_text">Bienvenido</string>
+    <string name="btn_text">Entrar</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+</resources>
